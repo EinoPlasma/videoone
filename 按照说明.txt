@@ -1,0 +1,5 @@
+直接运行install.php  进行安装即可！！
+
+如果提示已安装过请先删除lcok文件
+
+暴疯团队出品QQ/微信：805192222   网址：www.shangmeidd.com
